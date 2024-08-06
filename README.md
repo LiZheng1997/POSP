@@ -3,6 +3,10 @@ This is a project for picking out the packages when there are parallel packages.
 
 **POSP** means Pick Out Single Package, this project aims at solving the problem of parallel packages transporting on a conveyor belt. Like the video shows below:
 
-<video src="https://www.youtube.com/embed/vM1hwYmYbvQ?si=MJiyVB3CaGU9EzCg" controls="controls" width="500" height="300">POSP demo</video>
+[![Parallel packages](https://res.cloudinary.com/marcomontalbano/image/upload/v1722966674/video_to_markdown/images/youtube--vM1hwYmYbvQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vM1hwYmYbvQ "Parallel packages")
 
 Some screenshots about the detection of parallel packages are like bellow:
+
+<div align=center>
+<img src="data\image-20240804165358095.png" alt="3a" style="zoom:50%;" />
+</div>
