@@ -8,5 +8,5 @@ This is a project for picking out the packages when there are parallel packages.
 Some screenshots about the detection of parallel packages are like bellow:
 
 <div align=center>
-<img src="data\image-20240804165358095.png" alt="3a" style="zoom:50%;" />
+<img src="data\0001_Color.png" alt="parallel packages" style="zoom:50%;" />
 </div>
