@@ -6,10 +6,13 @@ This is a project for picking out s single package when there are parallel packa
 [![Parallel packages](https://res.cloudinary.com/marcomontalbano/image/upload/v1722966674/video_to_markdown/images/youtube--vM1hwYmYbvQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vM1hwYmYbvQ "Parallel packages")
 
 Some screenshots about the detection of parallel packages are like bellow:  
-
-<center class="half">
-<img src="data/0001_Color.png" title="parallel packages color" width="200" /><img src="data/0001_Depth.png"  title="parallel packages depth" width="200"/>
-</center>
+<table>
+    <tr>
+    <td ><center>
+        <img src="data/0001_Color.png" title="parallel packages color" width="200" /><img src="data/0001_Depth.png"  title="parallel packages depth" width="200"/>
+    </td ></center>
+    </tr>
+</table>
 
 <center class="half">
 <img src="data/0002_Color.png" width="200"><img src="data/0002_Depth.png" width="200">
