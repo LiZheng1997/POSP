@@ -9,16 +9,16 @@ Some screenshots about the detection of parallel packages are like bellow:
 <table  align="center">
     <tr>
     <td ><center>
-        <img src="data/0001_Color.png" title="parallel packages color"  /><img src="data/0001_Depth.png"  title="parallel packages depth" />
+        <img src="data/0001_Color.png" title="parallel packages color" width="300" /><img src="data/0001_Depth.png"  title="parallel packages depth" width="300"/>
     </td ></center>
     </tr>
     <tr>
     <td ><center class="half">
-    <img src="data/0002_Color.png" ><img src="data/0002_Depth.png" >
+    <img src="data/0002_Color.png" width="300"><img src="data/0002_Depth.png" width="300">
     </td ></center>
     </tr>
     <td ><center class="half">
-    <img src="data/0003_Color.png" ><img src="data/0003_Depth.png" >
+    <img src="data/0003_Color.png" width="300"><img src="data/0003_Depth.png" width="300">
     </td ></center>
     </tr>
 </table>
